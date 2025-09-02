@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap" rel="stylesheet');
+
+:root {
+    --pbmit-global-color: #ff8200;
+    --pbmit-secondary-color: #19232b;
+    --pbmit-light-color: #f2f3f5;
+    --pbmit-white-color: #fff;
+    --pbmit-blackish-color: #19232b;
+    --pbmit-link-color-normal: #19232b;
+    --pbmit-link-color-hover: #ff8200;
+    --pbmit-global-color-rgb: rgb(255, 130, 0);
+    --pbmit-secondary-color-rgb: rgb(25, 35, 43);
+    --pbmit-responsive-breakpoint: 1200px;
+    --pbmit-body-typography-font-family: 'Yantramanav', sans-serif;
+    --pbmit-body-typography-variant: regular;
+    --pbmit-body-typography-font-size: 18px;
+    --pbmit-body-typography-line-height: 1.7;
+    --pbmit-body-typography-color: #666666;
+    --pbmit-heading-typography-font-family:  'Yantramanav', sans-serif;
+    --pbmit-heading-color: #04080d;
+    --pbmit-heading-font-variant: 700;
+    --pbmit-btn-typography-font-family:  'Yantramanav', sans-serif;
+    --pbmit-btn-typography-variant: regular;
+    --pbmit-btn-typography-font-size: 16px;
+    --pbmit-btn-typography-line-height: 16px;
+}
+

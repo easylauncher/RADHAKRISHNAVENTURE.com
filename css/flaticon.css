@@ -1,0 +1,488 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 27/02/2020 05:58
+*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon.woff2") format("woff2"),
+       url("../fonts/flaticon.woff") format("woff"),
+       url("../fonts/flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="pbmit-emphires-icon-"]:before, [class*=" pbmit-emphires-icon-"]:before,
+[class^="pbmit-emphires-icon-"]:after, [class*=" pbmit-emphires-icon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+i[class^="pbmit-colza-icon-"]:before, i[class*=" pbmit-colza-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+}
+
+.pbmit-colza-icon-firewood:before {
+    content: "\f101";
+}
+.pbmit-colza-icon-hammer:before {
+    content: "\f102";
+}
+.pbmit-colza-icon-train-tracks:before {
+    content: "\f103";
+}
+.pbmit-colza-icon-mine-cart:before {
+    content: "\f104";
+}
+.pbmit-colza-icon-digging:before {
+    content: "\f105";
+}
+.pbmit-colza-icon-crane-truck:before {
+    content: "\f106";
+}
+.pbmit-colza-icon-gold-stack:before {
+    content: "\f107";
+}
+.pbmit-colza-icon-cave:before {
+    content: "\f108";
+}
+.pbmit-colza-icon-labor-man:before {
+    content: "\f109";
+}
+.pbmit-colza-icon-pickaxe:before {
+    content: "\f10a";
+}
+.pbmit-colza-icon-factory:before {
+    content: "\f10b";
+}
+.pbmit-colza-icon-truck:before {
+    content: "\f10c";
+}
+.pbmit-colza-icon-mining-cart:before {
+    content: "\f10d";
+}
+.pbmit-colza-icon-currency-exchange:before {
+    content: "\f10e";
+}
+.pbmit-colza-icon-paper:before {
+    content: "\f10f";
+}
+.pbmit-colza-icon-hand-saw:before {
+    content: "\f110";
+}
+.pbmit-colza-icon-boot-shoes:before {
+    content: "\f111";
+}
+.pbmit-colza-icon-wheelbarrow:before {
+    content: "\f112";
+}
+.pbmit-colza-icon-pyre:before {
+    content: "\f113";
+}
+.pbmit-colza-icon-dinamite:before {
+    content: "\f114";
+}
+.pbmit-colza-icon-train:before {
+    content: "\f115";
+}
+.pbmit-colza-icon-money-bag:before {
+    content: "\f116";
+}
+.pbmit-colza-icon-traffic-barrier:before {
+    content: "\f117";
+}
+.pbmit-colza-icon-helmet:before {
+    content: "\f118";
+}
+.pbmit-colza-icon-torch:before {
+    content: "\f119";
+}
+.pbmit-colza-icon-diamond:before {
+    content: "\f11a";
+}
+.pbmit-colza-icon-weight-scale:before {
+    content: "\f11b";
+}
+.pbmit-colza-icon-tunnel:before {
+    content: "\f11c";
+}
+.pbmit-colza-icon-cave-1:before {
+    content: "\f11d";
+}
+.pbmit-colza-icon-cargo-truck:before {
+    content: "\f11e";
+}
+.pbmit-colza-icon-bomb:before {
+    content: "\f11f";
+}
+.pbmit-colza-icon-gold-ingots:before {
+    content: "\f120";
+}
+.pbmit-colza-icon-mining-cart-1:before {
+    content: "\f121";
+}
+.pbmit-colza-icon-diamond-1:before {
+    content: "\f122";
+}
+.pbmit-colza-icon-crane-truck-1:before {
+    content: "\f123";
+}
+.pbmit-colza-icon-oil-barrel:before {
+    content: "\f124";
+}
+.pbmit-colza-icon-diamond-2:before {
+    content: "\f125";
+}
+.pbmit-colza-icon-miner:before {
+    content: "\f126";
+}
+.pbmit-colza-icon-rock:before {
+    content: "\f127";
+}
+.pbmit-colza-icon-mine-cart-1:before {
+    content: "\f128";
+}
+.pbmit-colza-icon-cutter:before {
+    content: "\f129";
+}
+.pbmit-colza-icon-drill:before {
+    content: "\f12a";
+}
+.pbmit-colza-icon-dynamite:before {
+    content: "\f12b";
+}
+.pbmit-colza-icon-axe:before {
+    content: "\f12c";
+}
+.pbmit-colza-icon-bonfire:before {
+    content: "\f12d";
+}
+.pbmit-colza-icon-mining:before {
+    content: "\f12e";
+}
+.pbmit-colza-icon-crucible:before {
+    content: "\f12f";
+}
+.pbmit-colza-icon-blacksmith:before {
+    content: "\f130";
+}
+.pbmit-colza-icon-sculptor:before {
+    content: "\f131";
+}
+.pbmit-colza-icon-refinery:before {
+    content: "\f132";
+}
+.pbmit-colza-icon-mining-1:before {
+    content: "\f133";
+}
+.pbmit-colza-icon-furnace:before {
+    content: "\f134";
+}
+.pbmit-colza-icon-glassblowing:before {
+    content: "\f135";
+}
+.pbmit-colza-icon-panning:before {
+    content: "\f136";
+}
+.pbmit-colza-icon-wagon:before {
+    content: "\f137";
+}
+.pbmit-colza-icon-jewelry:before {
+    content: "\f138";
+}
+.pbmit-colza-icon-apron:before {
+    content: "\f139";
+}
+.pbmit-colza-icon-cool:before {
+    content: "\f13a";
+}
+.pbmit-colza-icon-woodcutter:before {
+    content: "\f13b";
+}
+.pbmit-colza-icon-kiln:before {
+    content: "\f13c";
+}
+.pbmit-colza-icon-equipment:before {
+    content: "\f13d";
+}
+.pbmit-colza-icon-lumberjack:before {
+    content: "\f13e";
+}
+.pbmit-colza-icon-location:before {
+    content: "\f13f";
+}
+.pbmit-colza-icon-call:before {
+    content: "\f140";
+}
+.pbmit-colza-icon-phone:before {
+    content: "\f141";
+}
+.pbmit-colza-icon-email:before {
+    content: "\f142";
+}
+.pbmit-colza-icon-guarantee:before {
+    content: "\f143";
+}
+.pbmit-colza-icon-pdf:before {
+    content: "\f144";
+}
+.pbmit-colza-icon-document:before {
+    content: "\f145";
+}
+.pbmit-colza-icon-select:before {
+    content: "\f146";
+}
+.pbmit-colza-icon-engineer:before {
+    content: "\f147";
+}
+.pbmit-colza-icon-factory-1:before {
+    content: "\f148";
+}
+.pbmit-colza-icon-factory-2:before {
+    content: "\f149";
+}
+.pbmit-colza-icon-professional:before {
+    content: "\f14a";
+}
+.pbmit-colza-icon-factory-3:before {
+    content: "\f14b";
+}
+.pbmit-colza-icon-tanker:before {
+    content: "\f14c";
+}
+.pbmit-colza-icon-forklift:before {
+    content: "\f14d";
+}
+.pbmit-colza-icon-helmet-1:before {
+    content: "\f14e";
+}
+.pbmit-colza-icon-fuel-station:before {
+    content: "\f14f";
+}
+.pbmit-colza-icon-solar-panel:before {
+    content: "\f150";
+}
+.pbmit-colza-icon-gear:before {
+    content: "\f151";
+}
+.pbmit-colza-icon-oil:before {
+    content: "\f152";
+}
+.pbmit-colza-icon-radiation:before {
+    content: "\f153";
+}
+.pbmit-colza-icon-nuclear-plant:before {
+    content: "\f154";
+}
+.pbmit-colza-icon-cone:before {
+    content: "\f155";
+}
+.pbmit-colza-icon-container:before {
+    content: "\f156";
+}
+.pbmit-colza-icon-robotic-arm:before {
+    content: "\f157";
+}
+.pbmit-colza-icon-tank:before {
+    content: "\f158";
+}
+.pbmit-colza-icon-eolic-energy:before {
+    content: "\f159";
+}
+.pbmit-colza-icon-cart:before {
+    content: "\f15a";
+}
+.pbmit-colza-icon-tool:before {
+    content: "\f15b";
+}
+.pbmit-colza-icon-pump-jack:before {
+    content: "\f15c";
+}
+.pbmit-colza-icon-product:before {
+    content: "\f15d";
+}
+.pbmit-colza-icon-oil-1:before {
+    content: "\f15e";
+}
+.pbmit-colza-icon-robot-arm:before {
+    content: "\f15f";
+}
+.pbmit-colza-icon-oil-2:before {
+    content: "\f160";
+}
+.pbmit-colza-icon-truck-1:before {
+    content: "\f161";
+}
+.pbmit-colza-icon-container-1:before {
+    content: "\f162";
+}
+.pbmit-colza-icon-fuel-truck:before {
+    content: "\f163";
+}
+.pbmit-colza-icon-voltmeter:before {
+    content: "\f164";
+}
+.pbmit-colza-icon-work-time:before {
+    content: "\f165";
+}
+.pbmit-colza-icon-box:before {
+    content: "\f166";
+}
+.pbmit-colza-icon-power-plant:before {
+    content: "\f167";
+}
+.pbmit-colza-icon-factory-machine:before {
+    content: "\f168";
+}
+.pbmit-colza-icon-electric-factory:before {
+    content: "\f169";
+}
+.pbmit-colza-icon-foreman:before {
+    content: "\f16a";
+}
+.pbmit-colza-icon-work-list:before {
+    content: "\f16b";
+}
+.pbmit-colza-icon-tank-1:before {
+    content: "\f16c";
+}
+.pbmit-colza-icon-worker:before {
+    content: "\f16d";
+}
+.pbmit-colza-icon-tank-2:before {
+    content: "\f16e";
+}
+.pbmit-colza-icon-water-factory:before {
+    content: "\f16f";
+}
+.pbmit-colza-icon-factory-4:before {
+    content: "\f170";
+}
+.pbmit-colza-icon-report:before {
+    content: "\f171";
+}
+.pbmit-colza-icon-forklift-1:before {
+    content: "\f172";
+}
+.pbmit-colza-icon-warehouse:before {
+    content: "\f173";
+}
+.pbmit-colza-icon-gear-1:before {
+    content: "\f174";
+}
+.pbmit-colza-icon-factory-machine-1:before {
+    content: "\f175";
+}
+.pbmit-colza-icon-car:before {
+    content: "\f176";
+}
+.pbmit-colza-icon-foreman-1:before {
+    content: "\f177";
+}
+.pbmit-colza-icon-worker-1:before {
+    content: "\f178";
+}
+.pbmit-colza-icon-mechanical-arm:before {
+    content: "\f179";
+}
+.pbmit-colza-icon-mechanical-arm-1:before {
+    content: "\f17a";
+}
+.pbmit-colza-icon-jacket:before {
+    content: "\f17b";
+}
+.pbmit-colza-icon-worker-2:before {
+    content: "\f17c";
+}
+.pbmit-colza-icon-helmet-2:before {
+    content: "\f17d";
+}
+.pbmit-colza-icon-mechanical-arm-2:before {
+    content: "\f17e";
+}
+.pbmit-colza-icon-factory-machine-2:before {
+    content: "\f17f";
+}
+.pbmit-colza-icon-trolley:before {
+    content: "\f180";
+}
+.pbmit-colza-icon-truck-2:before {
+    content: "\f181";
+}
+.pbmit-colza-icon-switch:before {
+    content: "\f182";
+}
+.pbmit-colza-icon-presentation:before {
+    content: "\f183";
+}
+.pbmit-colza-icon-worker-3:before {
+    content: "\f184";
+}
+.pbmit-colza-icon-factory-machine-3:before {
+    content: "\f185";
+}
+.pbmit-colza-icon-factory-machine-4:before {
+    content: "\f186";
+}
+.pbmit-colza-icon-container-2:before {
+    content: "\f187";
+}
+.pbmit-colza-icon-drill-1:before {
+    content: "\f188";
+}
+.pbmit-colza-icon-gear-2:before {
+    content: "\f189";
+}
+.pbmit-colza-icon-wrench:before {
+    content: "\f18a";
+}
+.pbmit-colza-icon-research:before {
+    content: "\f18b";
+}
+.pbmit-colza-icon-box-1:before {
+    content: "\f18c";
+}
+.pbmit-colza-icon-monitor:before {
+    content: "\f18d";
+}
+.pbmit-colza-icon-scale:before {
+    content: "\f18e";
+}
+.pbmit-colza-icon-gear-3:before {
+    content: "\f18f";
+}
+.pbmit-colza-icon-hook:before {
+    content: "\f190";
+}
+.pbmit-colza-icon-controller:before {
+    content: "\f191";
+}
+.pbmit-colza-icon-controller-1:before {
+    content: "\f192";
+}
+.pbmit-colza-icon-mechanical-arm-3:before {
+    content: "\f193";
+}
+.pbmit-colza-icon-box-2:before {
+    content: "\f194";
+}
+.pbmit-colza-icon-gear-4:before {
+    content: "\f195";
+}
+.pbmit-colza-icon-bulb:before {
+    content: "\f196";
+}
+.pbmit-colza-icon-battery:before {
+    content: "\f197";
+}

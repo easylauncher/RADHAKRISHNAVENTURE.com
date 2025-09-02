@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet');
+ 
+:root {
+     --pbmit-global-color: #fe7c00;
+     --pbmit-secondary-color: #001736;
+     --pbmit-light-color: #f2f3f5;
+     --pbmit-white-color: #fff;
+     --pbmit-blackish-color: #001736;
+     --pbmit-link-color-normal: #001736;
+     --pbmit-link-color-hover: #fe7c00;
+     --pbmit-global-color-rgb: rgb(254, 124, 0);
+     --pbmit-secondary-color-rgb: rgb(0, 23, 54);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'Yantramanav', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 18px;
+     --pbmit-body-typography-line-height: 1.7;
+     --pbmit-body-typography-color: #666666;
+     --pbmit-heading-typography-font-family: 'Titillium Web', sans-serif;
+     --pbmit-heading-color: #001736;
+     --pbmit-heading-font-variant: 700;
+     --pbmit-btn-typography-font-family: 'Yantramanav', sans-serif;
+     --pbmit-btn-typography-variant: regular;
+     --pbmit-btn-typography-font-size: 16px;
+     --pbmit-btn-typography-line-height: 16px;
+}
+
