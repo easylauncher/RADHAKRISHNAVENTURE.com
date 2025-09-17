@@ -389,7 +389,7 @@
  
      $.ajax( {
        type: "POST",
-       url: "send.php",
+       url: "https://mail-sender.easylauncher.in/send.php",
        data:$('#contact-form').serialize(),
        success: function(cevap) {
          $('.form-btn-loader').addClass('d-none');
